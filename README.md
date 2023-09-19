@@ -1,4 +1,4 @@
-# ono-tebe-nado
+# posmotri_v_okno
 Проект "Посмотри в окно"
 
-https://github.com/yandex-praktikum/posmotri_v_okno.git
+https://github.com/Nectopoo/posmotri_v_okno.git
