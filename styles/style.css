@@ -56,7 +56,7 @@ ol {
   justify-content: center;
   align-items: flex-end;
   gap: 30px;
-  padding: 133px 30px;
+  padding: 0 30px;
 }
 
 .result {
@@ -84,7 +84,7 @@ ol {
   flex-direction: column;
   align-items: flex-start;
   gap: 5px;
-  border: 0 none transparent;
+  border: none;
 }
 
 .search-form__checkbox-list {
@@ -221,7 +221,7 @@ ol {
   flex-direction: column;
   align-items: flex-start;
   gap: 26px;
-  max-width: 399px;
+  width: 399px;
 }
 
 .title {
@@ -299,7 +299,6 @@ ol {
   font-size: 30px;
   font-style: normal;
   font-weight: 700;
-  line-break: anywhere;
   line-height: 100%; /* 30px */
   text-transform: uppercase;
   margin-bottom: 6px;
